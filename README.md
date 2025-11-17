@@ -28,14 +28,14 @@
 ### <img src="https://media.giphy.com/media/26BkNHzH9p6X3bYtW/giphy.gif" width="50"> Un po' su di me...  
 
 ```python
-viv = {
+Viviana = {
     'pronomi': 'she | her',
-    'linguaggi': ['SQL', 'Python', 'R'],
+    'linguaggi': ['SQL', 'Python'],
     'tools_frameworks': ['Pandas', 'NumPy', 'Jupyter', 'Docker', 'Git'],
     'current_focus': 'Data Analysis and Technologies',
     'challenge': 'Imparare cose nuove ogni giorno'
 }
 ```
-<img src="https://www.google.com/search?q=https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHBpNjNvZzQ1cmFscHBjNDNzdm9sMjU5a2U5ZnY1b3JzMWtkaHRxZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/v9x3F3QhHhM4g/giphy.gif" width="60"> <em><b>Adoro connettermi con persone diverse</b>, quindi se vuoi salutarmi, <b>sarò felice di conoscerti meglio!</b> :)</em>
+<img src="https://www.google.com/search?q=https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHBpNjNvZzQ1cmFscHBjNDNzdm9sMjU5a2U5ZnY1b3JzMWtkaHRxZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/v9x3F3QhHhM4g/giphy.gif" width="60"> <em><b>Adoro connettermi con persone nuove e diverse</b>, quindi se vuoi salutarmi, <b>sarò felice di conoscerti!</b> :)</em>
 
 ⭐️ Da @didomenicoviviana
