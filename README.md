@@ -31,8 +31,8 @@
 Viviana = {
     'pronomi': 'she | her',
     'linguaggi': ['SQL', 'Python'],
-    'tools_frameworks': ['Pandas', 'NumPy', 'Jupyter', 'Docker', 'Git'],
-    'current_focus': 'Data Analysis and Technologies',
+    'strumenti_frameworks': ['Pandas', 'NumPy', 'Jupyter', 'Git'],
+    'focus_attuale': 'Data Analysis and Technologies',
     'challenge': 'Imparare cose nuove ogni giorno'
 }
 ```
