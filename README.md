@@ -11,12 +11,12 @@
 ### 🛠️ Stack Tecnologico
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge" />
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge" />
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL Badge" />
   
   <br>
 
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas Badge" />
+    <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas Badge" />
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy Badge" />
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter Badge" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git Badge" />
@@ -25,8 +25,16 @@
 
 ***
 
-### 🧠 Un po' su di me...
+### Contributi e Statistiche 📈
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=didomenicoviviana&show_icons=true&theme=buefy&hide_rank=true" alt="Statistiche GitHub di didomenicoviviana"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=didomenicoviviana&layout=compact&theme=buefy&hide_border=true" alt="Top Languages di didomenicoviviana"/>
+</p>
+
+***
+
+### 🧠 Un po' su di me...
 
 ```python
 Viviana = {
