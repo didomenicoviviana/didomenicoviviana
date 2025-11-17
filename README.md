@@ -1,4 +1,5 @@
 <h2> Ciao, sono Viviana Di Domenico! 👋</h2>
+<img align='right' src="https://i.redd.it/fa7yzfkz14u71.gif" width="230">
 <img align='right' src="https://user-images.githubusercontent.com/74038190/229227575-b6d36e76-3729-455b-8716-e421c4323c5e.gif" width="230">
 <p><em>Mediatrice Linguistica presso <a href="https://lingueletteratureculturestraniere.uniroma3.it/">Università Roma Tre</a> 🎓</br>Analyst Consultant presso <a href="https://www.capgemini.com/it-it/">Capgemini</a> 💼
 </em></p>
